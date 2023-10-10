@@ -1,7 +1,7 @@
 ## ChatwithPDF
 
 a basic ai-powered chatbot to interact with PDFs and retrieve meaningful information with ease.
-this was built as a follow-along project to understand how to build ai-powered SaaS products.
+this was built as a follow-along project, with small twists along the way, to understand how to build AI-powered SaaS products.
 
 ----
 
